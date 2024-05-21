@@ -9,3 +9,4 @@ Way too Tang，太™唐了
 |最近华为 P70 发布，运营商又开始掐 iPhone 信号了。|[xiuming142857](https://www.v2ex.com/member/xiuming142857)|[原帖地址](https://www.v2ex.com/t/1036266)|[存档](src/1036266.md)|
 |在 git 分支名上面加斜杠真的太恶心了|[itskingname](https://www.v2ex.com/member/itskingname)|[原帖地址](https://www.v2ex.com/t/1035964)|[存档](src/1035964.md)|
 |Inter 和 AMD 的 CPU 为什么接口上不兼容？ 7 年前的 Inter 6700k 最近更新配置，网购了个 AMD 5700X，到货后发现 AMD 的 CPU 大一圈塞不进。。。|[daweii](https://www.v2ex.com/member/daweii)|[原帖地址](https://www.v2ex.com/t/1035131)|[存档](src/1035131.md)|
+|对于国外的人来说， macbook 8G 内存是绝对够用的|[naminokoe](https://www.v2ex.com/member/naminokoe)|[原帖地址](https://www.v2ex.com/t/1020715)|[存档](src/1020715.md)|
